@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 	<head>
-		<title> LORENA MARTIN ALVARO 50546471S</title>
+		<title> LORENA MARTIN ALVARO</title>
 	</head>
 	<body>
 		<p>Contenido de la página Web</p>
@@ -10,5 +10,5 @@
 		?>
 	</body>
 
-	<footer>LORENA MARTIN ALVARO 50546471S</footer>
+	<footer>LORENA MARTIN ALVARO</footer>
 </html>
